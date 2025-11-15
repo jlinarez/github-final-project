@@ -14,3 +14,6 @@
 ```output
    simple interest = p*t*r
 ```
+
+## License
+Apache 2.0
